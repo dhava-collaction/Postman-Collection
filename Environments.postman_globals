@@ -1,0 +1,15 @@
+{
+	"id": "625aeb85-a3c7-40a7-8025-1f9157bf3589",
+	"values": [
+		{
+			"key": "gbl_var_sys_id",
+			"value": "null",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-08-24T12:51:46.860Z",
+	"_postman_exported_using": "Postman/11.59.7"
+}
